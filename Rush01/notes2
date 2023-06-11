@@ -1,0 +1,20 @@
+postion of input, will be 0 - 15
+
+want that position to tell me two things.
+If i am looking at a row - left to right, or a colum - up down.
+Which way I am looking
+
+0 = looking down column 0
+1 = looking down column 1
+2 = looking down column 2
+3 = looking down column 3
+
+4 = looking up column 0
+5 = looking up column 1
+6 = looking up column 2
+7 = looking up column 3
+
+8, 9, 10, 11 = looking left to right, row 0, 1, 2, 3
+
+12, 13, 14, 15 = looking right to left, row 0, 1, 2, 3
+
